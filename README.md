@@ -1,1 +1,1 @@
-Hi! This is my first Weboage so please be patient!
+Hi! This is my first Webpage so please be patient!
